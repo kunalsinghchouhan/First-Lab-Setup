@@ -145,6 +145,3 @@ Shows login attempts and system security events
 9.Multiple endpoints and services
 
 
-👨‍💻 Author
-
-Kunal Singh Chouhan
